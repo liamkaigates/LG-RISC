@@ -1,4 +1,4 @@
 # LG-RISC
 
-### TODO:
+### TO-DO:
 - Memory and Fetch Stage Pipeline Tracking
